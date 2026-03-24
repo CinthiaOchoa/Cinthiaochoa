@@ -38,7 +38,7 @@ I am a highly organized and detail-oriented communicator passionate about levera
 ### 🌱 Current Endeavors
 
   - 🔭 **I’m currently working on:** Developing a web application focused on ingredients and recipe management to practice my frontend skills.
-  - ⚡  **Leadership:** Serving as **Vice President** of the Women Empowerment Club at Georgia State University.
+  - ⚡  **Leadership:** Serving as **Vice President** of the Women's Global Club at Georgia State University.
   - 🎓 **Education:** Completing my B.S. in Data Science.
   - 👯 **I’m looking to collaborate on:** Projects at the intersection of web development and data transparency.
   - 💬 **Ask me about:** My experience in the "Panthers in Charlotte" Fintech cohort or how I use Python for demographic analysis.
