@@ -1,5 +1,5 @@
 
-# \#\# Hi there 👋, I'm Cinthia Ochoa Torre
+# Hi there 👋, I'm Cinthia Ochoa Torre
 
 ### 📊 Data Science Student & Aspiring Data Analyst
 
@@ -28,7 +28,7 @@ I am a highly organized and detail-oriented communicator passionate about levera
   * Analyzed healthcare data to evaluate spending patterns between Hispanic and White non-Hispanic cohorts.
   * Cleaned and processed 600+ records, using visualizations to determine if spending differences were driven by age or systemic bias.
 
-#### [**Statistics Without Borders - Project 276**](https://drive.google.com/file/d/1Vbqht7e7bX3PD7m1lKChPXMnKYKeMF0j/view?usp=sharing)
+#### [**Statistics Without Borders - Project 276**](https://docs.google.com/presentation/d/1YaCIcerufhiHDRoy8NxaHoBEuBp6sui_/edit?usp=sharing&ouid=106227945420785838358&rtpof=true&sd=true)
 
   * Designed a database structure to facilitate research on climate change adaptation in Andean communities.
   * Integrated indigenous knowledge systems into data collection strategies.
@@ -49,7 +49,7 @@ I am a highly organized and detail-oriented communicator passionate about levera
 
 ### 🔗 Connect with me:
 
-(Linkelnd Profile)(https://www.linkedin.com/in/cinthia-m-ochoa-torre/\))
+[Linkedin Profile](https://www.linkedin.com/in/cinthia-m-ochoa-torre/\)
 
 
 
