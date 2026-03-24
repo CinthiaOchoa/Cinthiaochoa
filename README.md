@@ -13,10 +13,10 @@ I am a highly organized and detail-oriented communicator passionate about levera
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Programming** | [cite_start]Python (Pandas, NumPy), SQL, Java, R [cite: 20, 26] |
-| **Data Analysis** | [cite_start]Statistical Modeling, IQR Outlier Detection, Linearization [cite: 27, 32] |
-| **Tools** | [cite_start]Google Workspace, Microsoft Office, Canva [cite: 21] |
-| **Languages** | [cite_start]English (Fluent), Spanish (Fluent), Quechua (Elementary) [cite: 22] |
+| **Programming** | Python (Pandas, NumPy), SQL, Java, R |
+| **Data Analysis** | Statistical Modeling, IQR Outlier Detection, Linearization |
+| **Tools** | Google Workspace, Microsoft Office, Canva|
+| **Languages** | English (Fluent), Spanish (Fluent), Quechua (Elementary)|
 
 -----
 
@@ -24,13 +24,13 @@ I am a highly organized and detail-oriented communicator passionate about levera
 
 #### [**Analysis of Racial Disparities in Public Health Expenditures**](https://www.google.com/search?q=https://github.com/your-username/project-link)
 
-  * [cite_start]Analyzed healthcare data to evaluate spending patterns between Hispanic and White non-Hispanic cohorts[cite: 26].
-  * [cite_start]Cleaned and processed 600+ records, using visualizations to determine if spending differences were driven by age or systemic bias[cite: 27, 28].
+  * Analyzed healthcare data to evaluate spending patterns between Hispanic and White non-Hispanic cohorts.
+  * Cleaned and processed 600+ records, using visualizations to determine if spending differences were driven by age or systemic bias.
 
-#### [**Statistics Without Borders - Project 276**](https://www.google.com/search?q=https://github.com/your-username/project-link)
+#### [**Statistics Without Borders - Project 276**]
 
-  * [cite_start]Designed a database structure to facilitate research on climate change adaptation in Andean communities[cite: 79].
-  * [cite_start]Integrated indigenous knowledge systems into data collection strategies[cite: 80].
+  * Designed a database structure to facilitate research on climate change adaptation in Andean communities.
+  * Integrated indigenous knowledge systems into data collection strategies.
 
 -----
 
@@ -51,7 +51,7 @@ I am a highly organized and detail-oriented communicator passionate about levera
 
 ### 🔗 Connect with me:
 
-(https://www.google.com/search?q=%5Bhttps://www.linkedin.com/in/cinthia-m-ochoa-torre/%5D\(https://www.linkedin.com/in/cinthia-m-ochoa-torre/\))
+(https://www.linkedin.com/in/cinthia-m-ochoa-torre/%5D\(https://www.linkedin.com/in/cinthia-m-ochoa-torre/\))
 
 -----
 
